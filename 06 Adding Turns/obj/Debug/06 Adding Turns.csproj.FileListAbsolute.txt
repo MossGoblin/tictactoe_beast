@@ -1,0 +1,6 @@
+D:\Codee\Tic-Tac-Toe\06 Adding Turns\bin\Debug\06 Adding Turns.exe.config
+D:\Codee\Tic-Tac-Toe\06 Adding Turns\bin\Debug\06 Adding Turns.exe
+D:\Codee\Tic-Tac-Toe\06 Adding Turns\bin\Debug\06 Adding Turns.pdb
+D:\Codee\Tic-Tac-Toe\06 Adding Turns\obj\Debug\06 Adding Turns.csprojResolveAssemblyReference.cache
+D:\Codee\Tic-Tac-Toe\06 Adding Turns\obj\Debug\06 Adding Turns.exe
+D:\Codee\Tic-Tac-Toe\06 Adding Turns\obj\Debug\06 Adding Turns.pdb

@@ -1,0 +1,6 @@
+D:\Codee\tic-tac-toe\tic-tac-toe\tic-tac-toe\bin\Debug\tic-tac-toe.exe.config
+D:\Codee\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csprojResolveAssemblyReference.cache
+D:\Codee\tic-tac-toe\tic-tac-toe\tic-tac-toe\bin\Debug\tic-tac-toe.exe
+D:\Codee\tic-tac-toe\tic-tac-toe\tic-tac-toe\bin\Debug\tic-tac-toe.pdb
+D:\Codee\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.exe
+D:\Codee\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.pdb

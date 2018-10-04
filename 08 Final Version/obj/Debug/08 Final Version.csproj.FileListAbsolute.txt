@@ -1,0 +1,13 @@
+D:\Codee\Tic-Tac-Toe\08 Final Version\bin\Debug\08 Final Version.exe.config
+D:\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.csprojResolveAssemblyReference.cache
+D:\Codee\Tic-Tac-Toe\08 Final Version\bin\Debug\08 Final Version.exe
+D:\Codee\Tic-Tac-Toe\08 Final Version\bin\Debug\08 Final Version.pdb
+D:\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.exe
+D:\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.pdb
+E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\bin\Debug\08 Final Version.exe.config
+E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\bin\Debug\08 Final Version.exe
+E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\bin\Debug\08 Final Version.pdb
+E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.csprojResolveAssemblyReference.cache
+E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.csproj.CoreCompileInputs.cache
+E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.exe
+E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.pdb

@@ -1,0 +1,11 @@
+D:\Codee\tic-tac-toe\tic-tac-toe\05 CnM cleanup\bin\Debug\05 CnM cleanup.exe.config
+D:\Codee\tic-tac-toe\tic-tac-toe\05 CnM cleanup\bin\Debug\05 CnM cleanup.exe
+D:\Codee\tic-tac-toe\tic-tac-toe\05 CnM cleanup\bin\Debug\05 CnM cleanup.pdb
+D:\Codee\tic-tac-toe\tic-tac-toe\05 CnM cleanup\obj\Debug\05 CnM cleanup.exe
+D:\Codee\tic-tac-toe\tic-tac-toe\05 CnM cleanup\obj\Debug\05 CnM cleanup.pdb
+D:\Codee\Tic-Tac-Toe\05 CnM cleanup\bin\Debug\05 CnM cleanup.exe.config
+D:\Codee\Tic-Tac-Toe\05 CnM cleanup\obj\Debug\05 CnM cleanup.exe
+D:\Codee\Tic-Tac-Toe\05 CnM cleanup\obj\Debug\05 CnM cleanup.pdb
+D:\Codee\Tic-Tac-Toe\05 CnM cleanup\bin\Debug\05 CnM cleanup.exe
+D:\Codee\Tic-Tac-Toe\05 CnM cleanup\bin\Debug\05 CnM cleanup.pdb
+D:\Codee\Tic-Tac-Toe\05 CnM cleanup\obj\Debug\05 CnM cleanup.csprojResolveAssemblyReference.cache
