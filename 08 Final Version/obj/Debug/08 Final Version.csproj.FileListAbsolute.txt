@@ -11,3 +11,10 @@ E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.csproj
 E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.csproj.CoreCompileInputs.cache
 E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.exe
 E:\[ WOKR ]\Codee\Tic-Tac-Toe\08 Final Version\obj\Debug\08 Final Version.pdb
+D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\bin\Debug\08 Final Version.exe.config
+D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\bin\Debug\08 Final Version.exe
+D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\bin\Debug\08 Final Version.pdb
+D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.csprojAssemblyReference.cache
+D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.csproj.CoreCompileInputs.cache
+D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.exe
+D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.pdb

@@ -366,7 +366,7 @@ namespace _08_Final_Version
                     }
                 }
             }
-            Console.WriteLine("Press any key to exit");
+            Console.WriteLine("Press enter to exit");
             Console.ReadLine();
         }
     }
