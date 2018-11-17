@@ -18,3 +18,10 @@ D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\obj\Debug\08 Final Ver
 D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.csproj.CoreCompileInputs.cache
 D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.exe
 D:\Codee\tictactoe_beast\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.pdb
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\tictactoe_beast\08 Final Version\bin\Debug\08 Final Version.exe.config
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\tictactoe_beast\08 Final Version\bin\Debug\08 Final Version.exe
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\tictactoe_beast\08 Final Version\bin\Debug\08 Final Version.pdb
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.csprojAssemblyReference.cache
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.csproj.CoreCompileInputs.cache
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.exe
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\tictactoe_beast\08 Final Version\obj\Debug\08 Final Version.pdb
